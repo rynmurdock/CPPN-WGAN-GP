@@ -1,18 +1,18 @@
 # CPPN-WGAN-GP
 This project is a WGAN-GP that utilizes a compositional pattern producing network as the generator.
 
-See http://blog.otoro.net/2016/04/01/generating-large-images-from-latent-vectors/ for info on CPPN-GANs
+See http://blog.otoro.net/2016/04/01/generating-large-images-from-latent-vectors/ for info on CPPN-GANs.
 
-This generator utilizes a Wasserstein loss and produces color-images
-
-
+This generator utilizes a Wasserstein loss with gradient pentalties and produces color-images.
 
 
 
 
 
 
-This project uses the following python libraries: Keras with the TensorFlow, numpy, SciPy, and imageio.
+
+
+The following python libraries are used: Keras with the TensorFlow, numpy, SciPy, and imageio.
 
 The dataset currently being used is the IMM Face Database. Citation:
 @TECHREPORT\{IMM2004-03160,
