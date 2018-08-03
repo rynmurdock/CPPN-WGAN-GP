@@ -3,7 +3,7 @@ This project is a WGAN-GP that utilizes a compositional pattern producing networ
 
 See http://blog.otoro.net/2016/04/01/generating-large-images-from-latent-vectors/ for info on CPPN-GANs
 
-This generator utilizes a Wasserstein loss and produce color-images
+This generator utilizes a Wasserstein loss and produces color-images
 
 
 
