@@ -1,6 +1,6 @@
 # CPPN-WGAN-GP
 This project is a WGAN-GP that utilizes a compositional pattern producing network as the generator.
-
+ 
 See http://blog.otoro.net/2016/04/01/generating-large-images-from-latent-vectors/ for info on CPPN-GANs.
 
 The generator uses a Wasserstein loss with gradient pentalties and produces color-images.
